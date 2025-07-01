@@ -1,0 +1,19 @@
+# To commit 
+
+# 1. Initialize the Git repository
+git init
+
+# 2. Add all files to staging area
+git add .
+
+# 3. Make your first commit
+git commit -m "first commit"
+
+# 4. Rename the default branch to 'main'
+git branch -M main
+
+# 5. Add the remote repository
+git remote add origin https://github.com/tajuar-akash-hub/Phitron_Batch_7_2025.git
+
+# 6. Push to remote repository and set upstream
+git push -u origin main
