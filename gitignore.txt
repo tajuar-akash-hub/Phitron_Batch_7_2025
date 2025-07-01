@@ -1,0 +1,26 @@
+# 🚫 Ignore MinGW and system/compiler folders
+*/MinGW/
+1. C/
+
+# 🛠 Ignore build/compiled files
+*.exe
+*.dll
+*.o
+*.obj
+*.log
+
+# 🧠 Ignore VS Code settings
+.vscode/
+*.code-workspace
+
+# 📄 Ignore personal/sensitive files
+transaction id.txt
+1741587781055.png
+gitignore.git
+phitron payment.png
+
+# 🗂 Ignore common backup or system files
+*.bak
+*.tmp
+.DS_Store
+Thumbs.db
